@@ -1,0 +1,5 @@
+package bloomfilter
+
+func Blmadd() {
+
+}
